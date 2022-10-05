@@ -1,0 +1,55 @@
+* {
+    margin: 0%;
+    padding: 1%;
+    color: white;
+    /* border: 2px solid red; */
+}
+
+h1,
+p {
+    background-color: #33363b;
+    margin-left: 40%;
+}
+
+p {
+    width: 50%;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+}
+
+#img {
+    position: absolute;
+    top: 1%;
+    padding-left: 20%;
+    padding-right: 20%;
+}
+
+#date {
+    width: 500px;
+    position: absolute;
+    top: 0%;
+    padding: 5%;
+    font-family: serif;
+}
+
+
+/*Color the layouts*/
+
+
+#head,
+#pic {
+    background-color: #E3E3E3;
+}
+
+#quote1,
+#quote {
+    background-color: #fbf579;
+}
+
+#AMAOne {
+    background-color: #c53211;
+}
+
+#AMAtwo {
+    background-color: #005995;
+}

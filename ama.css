@@ -1,0 +1,20 @@
+#AMAOne,
+#AMAtwo {
+    border: 2px solid red;
+    margin-top: 20%;
+}
+
+#AMA1 {
+    padding-left: 20%;
+    padding-right: 20%;
+}
+
+#interestingFacts2 {
+
+    margin-top: -38%;
+    padding: 30px;
+    position: absolute;
+    width: 40%;
+    height: auto;
+    padding-left: 50%;
+}
